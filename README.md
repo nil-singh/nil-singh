@@ -10,7 +10,7 @@ Senior Software Developer with 4 years of experience in designing, developing, a
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=nil-singh&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=nil-singh&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=nil-singh&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](Javascript)
 
 ---
 [![](https://komarev.com/ghpvc/?username=nil-singh&icon=0&color=0)](https://visitcount.itsvg.in)
